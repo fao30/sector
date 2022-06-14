@@ -1,0 +1,32 @@
+sequelize model:generate --name User --attributes name:string,lastName:string,email:string,password:string,gender:string,photo:int,registerDate:date
+sequelize model:generate --name Visitor --attributes name:string,phone:string,AccountVisitorId:int
+sequelize model:generate --name Data --attributes timeVisit:Date,doctorAssigned:string,admin:string,createdBy:string,updateBy:string,isFirst:boolean,totalSpend:integer,status:string
+sequelize model:generate --name Data --attributes timeVisit:Date,doctorAssigned:string,admin:string,createdBy:string,updateBy:string,isFirst:boolean,totalSpend:integer,status:string
+
+
+Role:
+-Director
+-admin
+-manager
+-doctor
+
+status:
+-register
+-comeIn
+-finish
+
+isFirst:
+-true (firstComer)
+-false (!firstComer)
+
+
+sequelize db:created
+sequelize db:migrate
+sequelize db:seed:all
+
+ID, Имя, Фамилия, Email, Пароль, Пол (Мужской, Женский), Фото, Дата регистрации.
+
+sequelize seed:generate --name user_seeder
+
+
+

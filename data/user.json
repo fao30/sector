@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Hussam",
+    "lastName": "dovic",
+    "email": "h@gmail.com",
+    "password": "hhhhhh",
+    "gender": "Male"
+  },
+  {
+    "name": "Oksana",
+    "lastName": "Malova",
+    "email": "o@gmail.com",
+    "password": "oooooo",
+    "gender": "Female"
+  },
+  {
+    "name": "Regina",
+    "lastName": "Lurina",
+    "email": "r@gmail.com",
+    "password": "rrrrrr",
+    "gender": "Female"
+  },
+  {
+    "name": "Dodo",
+    "lastName": "Begovic",
+    "email": "d@gmail.com",
+    "password": "dddddd",
+    "gender": "Male"
+  },
+  {
+    "name": "Bagir",
+    "lastName": "Aslamov",
+    "email": "b@gmail.com",
+    "password": "bbbbbbb",
+    "gender": "Male"
+  },
+  {
+    "name": "Artyom",
+    "lastName": "Mironov",
+    "email": "a@gmail.com",
+    "password": "aaaaaa",
+    "gender": "Male"
+  },
+  {
+    "name": "Milena",
+    "lastName": "mayorova",
+    "email": "m@gmail.com",
+    "password": "mmmmmm",
+    "gender": "Female"
+  },
+  {
+    "name": "Lyubov",
+    "lastName": "lililova",
+    "email": "l@gmail.com",
+    "password": "llllll",
+    "gender": "Female"
+  },
+  {
+    "name": "Jana",
+    "lastName": "Jilova",
+    "email": "j@gmail.com",
+    "password": "jjjjjj",
+    "gender": "Female"
+  },
+  {
+    "name": "Kim",
+    "lastName": "pfefekorn",
+    "email": "k@gmail.com",
+    "password": "kkkkkk",
+    "gender": "Female"
+  }
+]
+  
