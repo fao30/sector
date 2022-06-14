@@ -1,5 +1,6 @@
 ## STARTING
 - npm install
+- npm install -g sequelize-cli (если нет sequelize)
 - sequelize db:created
 - sequelize db:migrate
 - sequelize db:seed:all
