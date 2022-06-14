@@ -1,7 +1,3 @@
-на терминале
-
--# WELCOME
-
 ## STARTING
 - npm install
 - sequelize db:created
