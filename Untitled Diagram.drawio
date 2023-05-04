@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T21:31:51.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qnb2yRG8OwEmA91JRSbU" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T21:32:07.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HMdXHQ5oI-haidbyTr2y" version="21.2.7" type="github">
   <diagram id="9MqEnYc2Nj3l7GqyiAAN" name="Page-1">
     <mxGraphModel dx="2840" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QRh1w9l6UdamEkCsD1TO-118" value="ClinicsBranches_Stations" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="QRh1w9l6UdamEkCsD1TO-118" value="ClinicBranches_Stations" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="290" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QRh1w9l6UdamEkCsD1TO-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="QRh1w9l6UdamEkCsD1TO-118" vertex="1">
